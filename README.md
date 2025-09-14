@@ -1,17 +1,27 @@
 <h1 align="center">🌸 Hi, I'm Sandali Pabasara 👋</h1>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/paTz7UZbPfTZFRYnnB/giphy.gif" alt="Coding Banner" width="70%">
-</p>
-
 ---
 
 ### 👩‍💻 About Me
-- 🎓 Undergraduate student of **HNDIT**  
-- 💡 Passionate about **Web Development & Software Engineering**  
-- 🔭 Projects: **Poultry Farm Management System**, **Tourism Website**, **Car Wash System**  
-- 🌱 Currently learning: **Laravel & React**  
-- 📫 Reach me at: **your-email@example.com**
+<table>
+<tr>
+<td width="50%">
+  
+🌟 I’m an **HNDIT undergraduate** with a passion for **web development and software engineering**.  
+💻 I enjoy transforming ideas into functional, user-friendly applications.  
+
+- 🔭 **Current Projects:** Poultry Farm Management System   
+- 🚀 **Interests:** Full-stack web development, UI/UX design, and database systems  
+- 🌱 **Learning:** Exploring web development, programming, and IT-related skills.  
+- 🎯 **Goal:** To become a professional developer who creates impactful solutions  
+   
+
+</td>
+<td width="50%" align="center">
+  <img src="https://media.giphy.com/media/paTz7UZbPfTZFRYnnB/giphy.gif" width="90%" alt="Coding Girl"/>
+</td>
+</tr>
+</table>
 
 ---
 
@@ -42,9 +52,7 @@
   <a href="https://www.linkedin.com/in/yourprofile" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="https://www.facebook.com/yourprofile" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877f2?style=for-the-badge&logo=facebook" />
-  </a>
+  
   <a href="mailto:your-email@example.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
