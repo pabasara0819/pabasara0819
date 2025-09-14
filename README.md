@@ -1,32 +1,27 @@
-<h1 align="center">Hi, I'm Sandali Pabasara 👋</h1>
+<h1 align="center">🌸 Hi, I'm Sandali Pabasara 👋</h1>
 
 <p align="center">
-  <img src="#" alt="Coding Banner" width="100%">
+  <img src="https://media.giphy.com/media/paTz7UZbPfTZFRYnnB/giphy.gif" alt="Coding Banner" width="70%">
 </p>
 
 ---
 
 ### 👩‍💻 About Me
-- 🎓 Undergraduate Student (**HNDIT**)
-- 💡 Passionate about **Web Development & Software Engineering**
-- 🔭 Currently building: **Poultry Farm Management System**
-- 🌱 Exploring: **Advanced PHP, MySQL, Java & C#**
-- 📫 Reach me: **your-email@example.com**
+- 🎓 Undergraduate student of **HNDIT**  
+- 💡 Passionate about **Web Development & Software Engineering**  
+- 🔭 Projects: **Poultry Farm Management System**, **Tourism Website**, **Car Wash System**  
+- 🌱 Currently learning: **Laravel & React**  
+- 📫 Reach me at: **your-email@example.com**
 
 ---
 
-### 🛠️ Technologies I Use
+### ⚒️ My Development Tools & Technologies
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,java,cs" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,java,cs,figma,vscode" />
 </p>
 
----
-
-### ⚡ Development Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=figma,vscode" />
-  <br>
-  <img src="https://img.shields.io/badge/Draw.io-FF7F00?style=for-the-badge&logo=diagrams.net&logoColor=white" />
+  <img src="https://img.shields.io/badge/Draw.io-orange?style=for-the-badge&logo=diagramsdotnet&logoColor=white" />
 </p>
 
 ---
@@ -57,4 +52,4 @@
 
 ---
 
-<p align="center">✨ Always learning, always building! ✨</p>
+<p align="center">✨ Keep Learning • Keep Building • Keep Growing ✨</p>
